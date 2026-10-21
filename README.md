@@ -1,4 +1,3 @@
-```markdown
 > **Materi:** *"Bridging Global Infrastructure to Address Local Challenges with High-Performance Computing (HPC)"*  
 > **Narasumber:** Asst. Prof. Dr. Worawan Diaz Carballo (Thammasat University, Thailand)  
 > **Penyelenggara:** Informatics Practitioner Lecture Series Program Studi Informatika, Universitas Bengkulu  
